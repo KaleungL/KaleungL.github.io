@@ -15,7 +15,7 @@ redirect_from:
 <style>
 
 div.abstract {
-  inline-size: 650px;
+  max-inline-size: 650px;
   word-wrap: break-word;
   hyphens: auto;
   text-align:justify;
@@ -48,7 +48,7 @@ This paper examines the role of information asymmetries in shaping the pattern o
 <hr style="width:650px;text-align:left;margin-left:0">
 
 <div lang="en" class="abstract">
-<p style="font-size:20px;margin-bottom:-6px;inline-size:700px;"><b>
+<p style="font-size:20px;margin-bottom:-6px;max-inline-size:700px;"><b>
 The Financial Transmission of Trade Shocks: Household Credit Channel
 </b></p>
 <p style="font-size:14px;">
