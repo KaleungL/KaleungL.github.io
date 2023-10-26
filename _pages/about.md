@@ -22,8 +22,6 @@ More broadly,
 I'm interested in research topics in  
 finance, macroeconomics and labour economics.
 
-But, most importantly, I am interested in FINDING A JOB!
-
 
 <!--
 
