@@ -11,18 +11,22 @@ redirect_from:
 <p></p>
 
 <div style="max-inline-size: 650px;word-wrap: break-word;hyphens: auto;line-height: 1.5;font-size=16px">
-<p>Hello, I am a PhD candidate in Economics at Princeton University. </p> 
+<p>Hello, I'm a PhD candidate in Economics at <b style="font-weight:600;">Princeton University</b>. <br> 
+I'm currently on the job market.</p>
 
-<p>I am currently on the 2023&ndash;2024 job market.</p>
+<p>I'm interested in applied research in <br>
+<b style="font-weight:600;">finance</b>, <b style="font-weight:600;">macroeconomics</b> and <b style="font-weight:600;">labour economics</b>.</p>
 
-<p>I conduct empirical research in finance, macroeconomics and labour economics. </p>
+<p>Currently, I'm studying <b style="font-weight:600;">banks</b>... <br> 
+how they thrive and fail;  <br> 
+how they respond to policies and regulations;  <br> 
+how they interact with other financial institutions; and  <br> 
+how they affect the wellbeing of individuals, households and firms, <br>
+both home and abroad. </p>
 
-<p> Currently, my research focus on applied banking. My job market paper explores how multi-regional firms mitigate the problem of information asymmetry when banks expand geographically. </p>
-
-<p>You are welcome to contact me by email: <a href="mailto:jl88@princeton.edu" style="color:#cc6600" target="_blank">jl88@princeton.edu</a>.</p>
+<p>In particular, my <b style="font-weight:600;">job market paper</b> examines <br>
+the effects of <b style="font-weight:600;">information frictions</b> on <b style="font-weight:600;">banks' geographic expansion</b>. </p>
 </div>
-
-
 
 
 
