@@ -15,7 +15,7 @@ redirect_from:
 
 <p>I am currently on the 2023&ndash;2024 job market.</p>
 
-<p>My research focuses on empirical questions in finance, macroeconomics, and labour economics. </p>
+<p>My current research focuses on empirical questions in finance, macroeconomics, and labour economics. </p>
 
 <p>My job market paper explores how multi-regional firms mitigate the problem of information asymmetry when banks expand geographically. </p>
 
