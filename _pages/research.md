@@ -52,7 +52,7 @@ This paper examines the role of information asymmetries in shaping the patterns 
 The Financial Transmission of Trade Shocks: Household Credit Channel
 </b></p>
 <p style="font-size:14px;">
-<i>Abstract</i>: How do trade shocks affect non-tradable sectors? Banks may play a role. US banks located in areas with high concentration of manufacturing sector are exposed to import competition from China. They experience difficulty in raising deposits, which in turn constrains lendings to households. Contracted household demand thus affects employment in the non-tradable sectors.
+<i>Abstract</i>: How do trade shocks affect non-tradable sectors? Banks may play a role. US banks located in areas with higher exposure to import competition from China experience slower growth in deposits. They reduce lendings to households. Contracted household demand in turn impacts employment in local non-tradable sectors.
 </p>
 </div>
 
@@ -61,7 +61,7 @@ The Financial Transmission of Trade Shocks: Household Credit Channel
 Capital Injection: Live Long and Wither
 </b></p>
 <p style="font-size:14px;">
-<i>Abstract</i>: Does government bailout save banks in crisis? US banks who received capital injections from the Treasury's Capital Purchase Program had lower failure rate than non-recipients in the short run, but quickly caught up after the peak of the crisis. Recipients also had a substantially higher chance of being acquired, possibly due to political pressures and management inefficiency, resulting in a higher exit rate overall.
+<i>Abstract</i>: Does government bailout save banks in crisis? US banks who received capital injections from the Treasury's Capital Purchase Program had lower failure rate than non-recipients in the short run, but quickly caught up after the peak of the crisis. Recipients also had a substantially higher chance of being acquired, possibly due to political pressures and management inefficiency, resulting in a higher overall exit rate.
 </p>
 </div>
 
