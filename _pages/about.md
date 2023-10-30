@@ -15,9 +15,9 @@ redirect_from:
 
 <p>I am currently on the 2023&ndash;2024 job market.</p>
 
-<p>I conduct empirical research in finance, macroeconomics and labour economics. </p>
+<p>My research focuses on empirical studies in finance, macroeconomics, and labour economics. </p>
 
-<p> Currently, my research focus on applied banking. My job market paper explores how multi-regional firms mitigate the problem of information asymmetry when banks expand geographically. </p>
+<p>My job market paper explores how multi-regional firms mitigate the problem of information asymmetry when banks expand geographically. </p>
 
 <p>You are welcome to contact me by email: <a href="mailto:jl88@princeton.edu" style="color:#cc6600" target="_blank">jl88@princeton.edu</a>.</p>
 </div>
