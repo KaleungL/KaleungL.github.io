@@ -52,7 +52,7 @@ This paper examines the role of information asymmetries in shaping the patterns 
 The Financial Transmission of Trade Shocks: Household Credit Channel
 </b></p>
 <p style="font-size:14px;">
-<i>Abstract</i>: How do trade shocks affect non-tradable sectors? Banks may play a role. US banks located in areas with higher exposure to import competition from China experience slower growth in deposits. They reduce lendings to households. Contracted household demand in turn impacts employment in local non-tradable sectors.
+<i>Abstract</i>: How do trade shocks affect non-tradable sectors? Banks may play a role. US banks located in areas with higher exposure to import competition from China experience slower growth in deposits and limit their lendings to households. Contracted household demand in turn impacts employment in the local non-tradable sectors.
 </p>
 </div>
 
