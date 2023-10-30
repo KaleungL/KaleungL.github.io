@@ -13,7 +13,7 @@ redirect_from:
 <div style="max-inline-size: 650px;word-wrap: break-word;hyphens: auto;line-height: 1.5;font-size=16px">
 <p>Hello, I am a PhD candidate in Economics at Princeton University. </p> 
 
-<p>I am currently on the 2023&ndash;2024 job market.</p>
+<p>I am on the job market during 2023&ndash;2024.</p>
 
 <p>My current research focuses on applied banking. More broadly, I am interested in empirical studies in finance, macroeconomics and labour economics. </p>
 
