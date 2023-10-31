@@ -15,7 +15,7 @@ redirect_from:
 
 <p>I am on the job market during 2023&ndash;2024.</p>
 
-<p>My current research focuses on applied banking. More broadly, I am interested in empirical studies in finance, macroeconomics, and labour economics. </p>
+<p>My current research focuses on empirical banking. In general, I am interested in leveraging micro-level data to answer questions in finance, macroeconomics, and labour economics. </p>
 
 <p>My job market paper explores how multi-regional firms mitigate the problem of information asymmetry when banks expand geographically. </p>
 
