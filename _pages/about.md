@@ -15,9 +15,9 @@ redirect_from:
 
 <p>I am on the job market during 2023&ndash;2024.</p>
 
-<p>My current research focuses on empirical banking. In general, I am interested in leveraging micro-level data to answer questions in finance, macroeconomics, and labour economics. </p>
+<p>I am an applied economist with broad interests spanning finance, macroeconomics and labour economics. My current research focuses on empirical banking, exploring how banks thrive or fail, their responses to regulations and policies, and their impact on the wellbeing of individuals, households, and firms. </p>
 
-<p>My job market paper explores how multi-regional firms mitigate the problem of information asymmetry when banks expand geographically. </p>
+<p>My job market paper examines how multi-regional firms mitigate the problem of information asymmetry when banks expand geographically. </p>
 
 <p>My CV is available <a href="http://KaleungL.github.io/files/CV_KaleungLam.pdf" style="color:#cc6600" target="_blank">here</a>.<br>
 Email: <a href="mailto:jl88@princeton.edu" style="color:#cc6600" target="_blank">jl88@princeton.edu</a>.</p>
