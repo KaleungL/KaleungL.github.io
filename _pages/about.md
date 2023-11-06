@@ -15,7 +15,7 @@ redirect_from:
 
 <p>I am on the job market during 2023&ndash;2024.</p>
 
-<p>I am an applied economist with broad interests spanning finance, macroeconomics and labour economics. My current research focuses on empirical banking, exploring how banks thrive or fail, their responses to regulations and policies, and their impact on the wellbeing of individuals, households, and firms. </p>
+<p>I am an applied economist with broad interests spanning finance, macroeconomics and labour economics. My current research focuses on empirical banking, exploring how banks thrive or fail, their responses to regulations and policies, and their impacts on the wellbeing of individuals, households, and firms. </p>
 
 <p>My job market paper examines how multi-regional firms mitigate the problem of information asymmetry when banks expand geographically. </p>
 
