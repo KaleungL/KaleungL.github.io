@@ -11,7 +11,7 @@ redirect_from:
 <p></p>
 
 <div style="max-inline-size: 650px;word-wrap: break-word;hyphens: auto;line-height: 1.5;font-size=16px">
-<p>Hello, I am a PhD candidate in Economics at Princeton University. </p> 
+<p>Hello, I am a Research Fellow at Monash Centre for Financial Studies. </p> 
 
 <p>I am on the job market during 2023&ndash;2024.</p>
 
